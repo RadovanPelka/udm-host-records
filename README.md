@@ -25,7 +25,7 @@ Once scripts are executed
 2. Copy the code to the UDM to a directory of your choosing, such as `/mnt/data/udm-host-records`
 3. Make sure script execution permissions in case they didn't survive the download and copy.   If they didn't then, 
 ```
-cd /mnt/udm-host-records
+cd /mnt/data/udm-host-records
 chmod u+x *.sh
 ```
 
